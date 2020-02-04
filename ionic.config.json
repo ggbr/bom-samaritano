@@ -1,0 +1,7 @@
+{
+  "name": "bom-samaritano",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
